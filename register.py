@@ -2088,4 +2088,7 @@ print("my third message")
 
 
 
+<<<<<<< HEAD
 print("my second message")
+=======
+>>>>>>> 0258cb9 (my third message)
