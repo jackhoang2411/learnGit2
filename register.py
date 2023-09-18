@@ -1,6 +1,8 @@
 print("my first message")
+print("my first message")
 print("my second message")
 print("my third message")
+print("my fourth message")
 
 
 
@@ -2087,4 +2089,13 @@ print("my third message")
 
 
 
-
+<<<<<<< HEAD
+<<<<<<< HEAD
+print("my second message")
+=======
+>>>>>>> 0258cb9 (my third message)
+=======
+print("my second message")
+>>>>>>> 696527a (second message)
+=======
+>>>>>>> 0258cb9 (my third message)
