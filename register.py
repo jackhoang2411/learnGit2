@@ -1,4 +1,4 @@
-print("my first message")
+print("my first message")second
 print("my second message")
 print("my third message")
 
@@ -2092,3 +2092,6 @@ print("my third message")
 print("my second message")
 =======
 >>>>>>> 0258cb9 (my third message)
+=======
+print("my second message")
+>>>>>>> 696527a (second message)
